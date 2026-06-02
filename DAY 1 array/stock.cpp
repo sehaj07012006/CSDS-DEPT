@@ -18,3 +18,4 @@ int main(){
     vector<int> Price = {1,4,5,3,9};
     cout<<maxProfit(Price);
 }
+int main
